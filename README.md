@@ -1,11 +1,30 @@
-# Graduation-Project-Data-Analytics-BEH1_DAT1_M1e--Supply-Chain-group-2
-Data Analytics BEH1_DAT1_M1e group 2
-What is supply chain analysis?
-Supply chain analysis is the process of evaluating every stage of a supply chain starting from the time the business acquires raw materials or supplies from its suppliers to the delivery of final products to the customers.
-The purpose of the analysis is to determine which part of the supply chain can be improved or shortened to deliver the product more quickly and efficiently to the customers.
-What are supply chain analytics and it's different types?
-Each of these supply chain analytics can increase the overall efficiency of business operations, which can lead to sizable cost savings.
-Descriptive Analytics focuses on understanding what happened in the past by analyzing historical data. It can provide insights on key performance metrics, such as inventory levels, lead times, and delivery performance. Descriptive analytics can help identify patterns and trends in past supply chain operations, allowing organizations to make informed decisions about future strategies.
-Diagnostic Analytics goes beyond descriptive analytics by identifying the root causes of supply chain issues. By analyzing data from different sources, such as suppliers, logistics providers, and customers, organizations can identify the factors that contribute to delays, disruptions, or quality issues in their supply chain. This can help them take corrective actions to prevent similar problems from happening in the future.
-Predictive Analytics uses statistical models and machine learning algorithms to forecast future supply chain events. By analyzing historical data, organizations can identify patterns and trends that can help predict demand, inventory levels, and delivery performance. This can help organizations optimize their supply chain operations, reduce costs, and improve customer satisfaction.
-Prescriptive Analytics takes predictive analytics one step further by providing recommendations on how to optimize supply chain operations. By using optimization algorithms and simulations, prescriptive analytics can help organizations identify the best course of action to improve supply chain performance. This can help organizations make better decisions and improve their overall supply chain efficiency.
+Summary
+Certified Data Analyst skilled in data visualization, Python & R programming, extracting insights to enhance decision-making and operational efficiency. Seeking to contribute analytical expertise to drive business success.
+Experience
+Jun 2024 – present                          Data Analyst Specialist (Part-Time), Digital Egyptian Pioneers Initiatives
+	 Analyzed data and extracted insights from large datasets using SQL and Excel, ensuring accurate results for decision-making.
+	 Created and presented data visualizations using Tableau and Power Bi to effectively communicate findings.
+	 Conducted data preparation and cleaning using Python and Pandas, enhancing data quality and readiness for analysis.
+	Applying statistical analysis techniques, including descriptive and inferential statistics, to identify patterns and trends in datasets.
+	Engaging in data mining activities to uncover insights that support business strategies and improvements.
+	Ensured adherence to data governance practices, maintaining compliance with data standards and regulations & collaborated with cross-functional teams to leverage data insights for improving business processes.
+Oct 2011 – present                          Clinical laboratories specialist (Full-Time) .
+1. Assistant Researcher, Human Cytogenetic and Molecular Biology Dept., Center for
+Genetic Engineering - Al-Azhar University (2006 – 2009).
+2. Clinical laboratories specialist, Dr. Salwa M. Ali Lab (2006).
+3. Clinical laboratories specialist, El-Safa Lab (2006).
+4. Clinical laboratories specialist, Suzan Mubark Pediatric Hospital (2007-2008).
+5. Clinical laboratories specialist, First Lab (in center) (2008-2009).
+6. Clinical laboratories specialist, Royal Lab (Dokki branch) (2009 – 2010).
+7. Human Cytogenetic Specialist, Medical Lab Dr. Wafaa El-Metnawi
+(Hematological Malignant detections) (2010).
+8. Clinical laboratories specialist, Aborg Lab (Itay branch).
+  Education
+  Jul 2006                                Bachelor of Science, Al-Azhar University
+ Technical Certificates
+2022                                 Power BI & Dax in Data Visualization, Data Camp (link)
+2022                                 Data in SQL, Data Camp (link)
+2022                                 Data Analysis & Visualization with Python, Udemy (link) 
+2024                                 Foundations: Data, Data, Everywhere, Google (link)
+2024                                 Delivering Quality Work with Agility, IBM (link)
+
